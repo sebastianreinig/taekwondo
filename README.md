@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Taekwondo - Lernhilfe</h3>
 
   <p align="center">
     project_description
@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Taekwondo - Lernhilfe</a>
+      <a href="#about-the-project">About the Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
